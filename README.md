@@ -1,7 +1,4 @@
 
-
-
-
 **Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
@@ -47,7 +44,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/deeb220f-d7dd-4b04-a77f-542e06628483) and click on Share -> Publish.
